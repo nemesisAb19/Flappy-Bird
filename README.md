@@ -20,7 +20,7 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
 
 │── README.md   # Project documentation 
 
-## ⚡ How to Run the Game
+## 🎮 How to Run the Game
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/nemesisAb19/Flappy-Bird.git
