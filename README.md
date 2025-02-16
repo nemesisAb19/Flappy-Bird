@@ -10,7 +10,8 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
 - Score tracking  
 
 ## 📂 Project Structure
-/Flappy-Bird-Python 
+/Flappy-Bird-Python
+
 │── img/   # Game assets (bird, pipes, background) 
 
 │── FlappyBird.py   # Main game logic 
