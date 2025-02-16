@@ -18,7 +18,7 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
 
 │── README.md   # Project documentation 
 
-│── gameplay.mp4   # Video demo of the game
+│── Flappy Bird.mp4   # Video demo of the game
 
 ## ⚡ How to Run the Game
 1. **Clone the repository:**
