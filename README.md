@@ -12,8 +12,11 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
 ## 📂 Project Structure
 /Flappy-Bird-Python 
 │── img/   # Game assets (bird, pipes, background) 
+
 │── FlappyBird.py   # Main game logic 
+
 │── README.md   # Project documentation 
+
 │── gameplay.mp4   # Video demo of the game
 
 ## ⚡ How to Run the Game
