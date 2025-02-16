@@ -35,5 +35,5 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
    python FlappyBird.py
 
 
-📜 License
+## 📜 License
 This project is open-source and free to use. Enjoy coding! 🎮
