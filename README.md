@@ -34,6 +34,7 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
 4. Run the game:
    python FlappyBird.py
 
+## 🎥 Demo Video 
 
 ## 📜 License
 This project is open-source and free to use. Enjoy coding! 🎮
