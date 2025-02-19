@@ -35,7 +35,7 @@ Dodge the pipes, score points, and challenge yourself in this classic arcade gam
    python FlappyBird.py
 
 ## 🎥 Demo Video 
-https://github.com/nemesisAb19/Flappy-Bird/blob/main/Flappy%20Bird.mp4
+https://github.com/user-attachments/assets/e45cd872-cf84-4b47-9d35-cadcb2094916
 
 ## 📜 License
 This project is open-source and free to use. Enjoy coding! 🎮
